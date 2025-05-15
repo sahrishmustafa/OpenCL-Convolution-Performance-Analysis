@@ -1,4 +1,4 @@
-# README
+# OpenCL-Convolution-Performance-Analysis
 
 ## Project Overview
 This project implements both serial and parallel versions of a convolution operation using OpenCL. It compares the performance of different implementations and verifies results against OpenCV and SciPy.
